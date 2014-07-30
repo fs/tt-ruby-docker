@@ -3,7 +3,7 @@ FROM centos
 MAINTAINER fs "https://github.com/fs"
 
 # Install packages for building ruby
-RUN yum install -y gcc git unzip
+RUN yum install -y gcc git unzip tar
 RUN yum install -y openssl openssl-devel
 RUN yum install -y zlib1g-devel libssl-devel libreadline-devel libyaml-devel libxml2-devel libxslt-devel
 
