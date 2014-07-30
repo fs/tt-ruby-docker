@@ -56,3 +56,18 @@ Dockerfile execute belows;
 
 - [docker-plenv-vanilla](https://github.com/miyagawa/docker-plenv-vanilla)
 - [Using Docker and Vagrant on Mac OS X with a Ruby on Rails application](http://blog.powpark.com/2013/11/11/using-docker-and-vagrant-on-mac-osx-for-a-ruby-on-rails-app/)
+
+## Credits
+
+TT Ruby is maintained by  [Vladimir
+Mikhailov](https://github.com/VladimirMikhailov).
+It was written by [Flatstack](http://www.flatstack.com) with the help of
+our
+[contributors](http://github.com/fs/tt-ruby-docker/contributors).
+
+Thank you, [tt-ruby](https://github.com/fs/tt-ruby/contributors),
+[tt-ruby-docker](https://github.com/fs/tt-ruby-docker/contributors) and
+[tt-ruby-checker](https://github.com/fs/tt-ruby-checker/contributors)
+contributors!
+
+[![Flatstack](http://www.flatstack.com/assets/images/logo.png)](http://www.flatstack.com)
